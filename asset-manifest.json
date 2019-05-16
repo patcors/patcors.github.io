@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.93762ee6.chunk.css",
-    "main.js": "/static/js/main.4b9d53f7.chunk.js",
-    "main.js.map": "/static/js/main.4b9d53f7.chunk.js.map",
+    "main.js": "/static/js/main.6042b717.chunk.js",
+    "main.js.map": "/static/js/main.6042b717.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.9e14cde7.chunk.js": "/static/js/2.9e14cde7.chunk.js",
     "static/js/2.9e14cde7.chunk.js.map": "/static/js/2.9e14cde7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.843a50883ac1f14be926191965926052.js": "/precache-manifest.843a50883ac1f14be926191965926052.js",
+    "precache-manifest.b7a522a8494d36fd810d19532d6ab638.js": "/precache-manifest.b7a522a8494d36fd810d19532d6ab638.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.93762ee6.chunk.css.map": "/static/css/main.93762ee6.chunk.css.map",
-    "static/media/paula_cropped.png": "/static/media/paula_cropped.89cfc843.png"
+    "static/media/logo.jpg": "/static/media/logo.2c555b14.jpg"
   }
 }
